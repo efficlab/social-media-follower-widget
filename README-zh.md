@@ -2,14 +2,16 @@
 
 <img align="right" width="200" src="https://github.com/efficlab/social-media-follower-widget/blob/main/imgs/example.jpeg?raw=true">
 
+<a href="https://github.com/efficlab/social-media-follower-widget">English</a> | 中文
+
 一个 Scriptable 脚本，用于添加可以实时显示 **Bilibili** 和 **YouTube** 上关注者数量的 IOS 小部件。
 
-此脚本需要 Google API 密钥来获取 YouTube 频道数据，需要先按照以下步骤操作：https://developers.google.com/youtube/v3/getting-started，如果不需要现实 YouTube 数据，可以忽略此步骤。
+此脚本需要 Google API 密钥来获取 YouTube 频道数据，需要先按照以下步骤操作：[https://developers.google.com/youtube/v3/getting-started](https://developers.google.com/youtube/v3/getting-started)，如果不需要显示 YouTube 数据，则可忽略此步骤。
 
 将脚本中的以下字段修改为您自己的字段：
 
 - **NAME**：频道名称。
-- **CHANNEL_AVATAR_URL**：频道图标的 URL，您需要使用浏览器检查器获取此 URL。如注释掉该选项，将使用默认图标。
+- **CHANNEL_AVATAR_URL**：频道图标的 URL，您需要使用浏览器检查器获取此 URL。**如注释掉该选项，将使用默认图标**。
 
 如果您有 Bilibili 频道，则以下字段是必填项，否则，请将其注释掉：
 

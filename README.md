@@ -2,7 +2,7 @@
 
 <img align="right" width="200" src="https://github.com/efficlab/social-media-follower-widget/blob/main/imgs/example.jpeg?raw=true">
 
-<a href="https://github.com/efficlab/social-media-follower-widget/edit/main/README.md">English</a> | <a href="https://github.com/efficlab/social-media-follower-widget/edit/main/README-zh.md">中文</a>
+English | <a href="https://github.com/efficlab/social-media-follower-widget/blob/main/README-zh.md">中文</a>
 
 A Scriptable script for adding IOS widget that displays count of followers on **Bilibili** and **YouTube**.
 
